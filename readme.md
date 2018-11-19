@@ -1,4 +1,3 @@
-## Bootstrap Project
+# Bootstrap Project
 
-
-# Showcase
+## Showcase
